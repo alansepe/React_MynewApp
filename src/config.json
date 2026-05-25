@@ -1,0 +1,12 @@
+{ "SERVER_URL": "http://localhost:8000/employee",
+  "EMPLOY_URL": "http://localhost:8000/employee",
+  "CUSTOMER_URL": "http://localhost:8000/customers",
+  "DEPT_URL": "http://localhost:8000/department",
+  "USER_URL": "http://localhost:8000/user",
+  "SSS_URL":"http://localhost:8000/sss",
+  "HDMF_URL":"http://localhost:8000/hdmf",  
+  "ORDER_URL":"http://localhost:8000/ordermain" ,
+  "SERIESA_URL":"http://localhost:8000/seriesordersub" ,
+   "ITEMS_URL":"http://localhost:8000/items" ,
+   "CHART_URL": "https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"
+ }
