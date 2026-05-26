@@ -4,19 +4,6 @@ import config from './config.json';
 import { setGlobal, getGlobal } from "./global";
 import axios from "axios" ;
 
-
-//import * as Chart from "chart.js";
-
-//import { Chart as ChartJS, CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend } from 'chart.js';
-
-//ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend);
-
-//import 'chart.js/auto';
-
-//import { Bar } from 'react-chartjs-2';
-//import { Line } from 'react-chartjs-2';
-//import context from "react-bootstrap/esm/AccordionContext";
-
 const ORANGE = "#f97316";
 const AMBER  = "#fb923c";
 
